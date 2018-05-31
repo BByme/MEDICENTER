@@ -1,0 +1,15 @@
+com\medicenter\model\UserAccount.class
+com\medicenter\repository\MedicalFileRepository.class
+com\medicenter\repository\DriverRepository.class
+com\medicenter\model\Doctor.class
+com\medicenter\model\Driver.class
+com\medicenter\model\Passenger.class
+com\medicenter\repository\PassengerRepository.class
+com\medicenter\model\Contact.class
+com\medicenter\repository\UserAccountRepository.class
+com\medicenter\config\MedicenterApplication.class
+com\medicenter\repository\DoctorRepository.class
+com\medicenter\model\NavSystem.class
+com\medicenter\repository\ContactRepository.class
+com\medicenter\repository\NavSystemRepository.class
+com\medicenter\model\MedicalFile.class
